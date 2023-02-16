@@ -10,7 +10,8 @@ Password: bandit0
 
 
 ## Solución
-```
+```bash
+
 $ssh bandit0@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _   
                         | |__   __ _ _ __   __| (_) |_ 
