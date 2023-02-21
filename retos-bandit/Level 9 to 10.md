@@ -28,6 +28,4 @@ bandit9@bandit:~$
 |strings | sustrae la cadena de texto de un archivo data, solo deja los caracteres que se pueden mostrar|
 
 
-
-
 ## Referencias
