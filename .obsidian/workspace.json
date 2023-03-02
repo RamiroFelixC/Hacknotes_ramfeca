@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e1cf4213e5137a14",
+        "id": "0630f09fc090e565",
         "type": "tabs",
         "children": [
           {
-            "id": "57e3bee2ad47c94f",
+            "id": "7ad7b9bd95586fc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 28 to 29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b10262737d9d71f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 29 to 30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45b25a53dd8157f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 30 to 31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8392aca0f8f9eb1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 31 to 32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6da39971f2cc77c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 32 to 33.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 32 to 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 32 to 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "retos-bandit/Level 32 to 33.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,31 +138,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6da39971f2cc77c3",
+  "active": "7ad7b9bd95586fc8",
   "lastOpenFiles": [
-    "retos-bandit/Level 31 to 32.md",
+    "Examen Parcial 1/2022/08-PWCrack2/08-PW Crack 2.md",
+    "Examen Parcial 1/2022/07- PWCrack1/07-PW Crack 1.md",
+    "Examen Parcial 1/2022/06-Glitch cat.md",
+    "Examen Parcial 1/2022/05-Fixme2.py/05-Fixme.py.md",
+    "Examen Parcial 1/2022/04- Fixme1.py/04-Fixme.py.md",
+    "Examen Parcial 1/2022/03-Codebook/03-Codebook.md",
+    "Examen Parcial 1/2022/09- PWCrack3/09-PW Crack 3.md",
+    "Examen Parcial 1/2022/09- PWCrack3/level3.py",
+    "Examen Parcial 1/2022/09- PWCrack3/level3.hash.bin",
+    "Examen Parcial 1/2022/09- PWCrack3/level3.flag.txt.enc",
+    "Examen Parcial 1/2022/09- PWCrack3",
+    "Examen Parcial 1/2022/untitled folder",
+    "Examen Parcial 1/2022/08-PWCrack2/level2.py",
+    "Examen Parcial 1/2022/08-PWCrack2/level2.flag.txt.enc",
+    "Examen Parcial 1/2022/08-PWCrack2",
+    "Examen Parcial 1/2022/07- PWCrack1/level1.py",
+    "Examen Parcial 1/2022/07- PWCrack1/level1.flag.txt.enc",
+    "Examen Parcial 1/2022/02-Convertme.py/02-Convertme.py.md",
+    "Examen Parcial 1/2022/01-Runme.py/01-Runme.py.md",
+    "Examen Parcial 1/2021/05-Tab, Tab, Attack/Tab, Tab, Attack.md",
+    "Examen Parcial 1/2021/Magikarp Ground Mission.md",
+    "Examen Parcial 1/2021/04-Static ain't always noise/Static ain't always noise.md",
+    "Examen Parcial 1/2021/03-Nice netcat.md",
+    "Examen Parcial 1/2021/02-Wave a flag/Wave a flag.md",
+    "Examen Parcial 1/2021/01-Obedient Cat/Obedient Cat.md",
+    "Examen Parcial 1/2019/09-Plumbing.md",
+    "Examen Parcial 1/2019/08-Based.md",
+    "Examen Parcial 1/2019/07-First grep/First grep.md",
+    "Examen Parcial 1/2019/06-Bases.md",
+    "Examen Parcial 1/2019/05-Strings it/Strings it.md",
+    "Examen Parcial 1/2019/04-Whats a net cat?.md",
+    "Examen Parcial 1/2019/03-2Warm.md",
+    "Examen Parcial 1/2019/02-Warmed Up.md",
+    "Examen Parcial 1/2019/01-Lets Warm Up.md",
     "retos-bandit/Level 32 to 33.md",
-    "retos-bandit/Level 30 to 31.md",
-    "retos-bandit/Level 29 to 30.md",
-    "retos-bandit/Level 28 to 29.md",
-    "retos-bandit/Level 27 to 28.md",
-    "retos-bandit/Level 26 to 27.md",
-    "retos-bandit/Level 25 to 26.md",
-    "retos-bandit/Level 24 to 25.md",
-    "retos-bandit/Level 23 to 24.md",
-    "retos-bandit/Level 22 to 23.md",
-    "Untitled.md",
-    "Untitled",
-    "retos-bandit/Level 21 to 22.md",
-    "retos-bandit/Level 20 to 21.md",
-    "retos-bandit/Level 19 to 20.md",
-    "retos-bandit/Level 18 to 19.md",
-    "retos-bandit/Level 17 to 18.md",
-    "retos-bandit/Level 16 to 17.md",
-    "retos-bandit/Level 15 to 16.md",
-    "retos-bandit/Level 14 to 15.md",
-    "retos-bandit/Level 13 to 14.md",
-    "retos-bandit/Level 12 to 13.md",
-    "retos-bandit/Level 11 to 12.md"
+    "retos-bandit/Level 31 to 32.md"
   ]
 }
