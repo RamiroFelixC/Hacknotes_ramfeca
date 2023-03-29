@@ -4,59 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "00b1c7746e07c7af",
+        "id": "8e4f9292e307f709",
         "type": "tabs",
         "children": [
           {
-            "id": "d1ce91017b3f773d",
+            "id": "80bd98bd196e961f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-picoCTF/2019-Forensic/07-WhitePages/WhitePages.md",
+                "file": "Retos-picoCTF/2019-Forensic/11-WebNet0/WebNet0.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ac0e80f3cd8243c",
+            "id": "253d7b3d781d0785",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-picoCTF/2019-Forensic/08-C0rrupt/C0rrupt.md",
+                "file": "Retos-picoCTF/2019-Forensic/12-WebNet1/WebNet1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1521dae34e84129c",
+            "id": "0d5f8dda39ccfe98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-picoCTF/2019-Forensic/09-Like1000/Like1000.md",
+                "file": "Retos-picoCTF/2019-Forensic/13-Matryoshka_doll/Matryoshka doll.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "62164fff55d73d1a",
+            "id": "434e03a0e3a6e556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-picoCTF/2019-Forensic/10-sharkonwire2/Shark on wire 2.md",
+                "file": "Retos-picoCTF/2019-Forensic/14-tunn3l_v1s10n/tunn3l v1s10n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fb5c46cf5daac39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 375.5
   },
   "right": {
     "id": "27ed5141b1eb46e7",
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-picoCTF/2019-Forensic/10-sharkonwire2/Shark on wire 2.md",
+                "file": "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-picoCTF/2019-Forensic/10-sharkonwire2/Shark on wire 2.md",
+                "file": "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-picoCTF/2019-Forensic/10-sharkonwire2/Shark on wire 2.md"
+                "file": "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/MacroHard WeakEdge.md"
               }
             }
           }
@@ -183,28 +195,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62164fff55d73d1a",
+  "active": "af11e120f2892c18",
   "lastOpenFiles": [
-    "Retos-picoCTF/2019-Forensic/10-sharkonwire2/script.py",
-    "Retos-picoCTF/2019-Forensic/10-sharkonwire2/capture.pcap",
-    "Retos-picoCTF/2019-Forensic/09-Like1000/Like1000.md",
-    "Retos-picoCTF/2019-Forensic/08-C0rrupt/C0rrupt.md",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/docProps/thumbnail.jpeg",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/docProps/core.xml",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/docProps/app.xml",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/docProps",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/ppt/slides/_rels/slide9.xml.rels",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/ppt/slides/_rels/slide8.xml.rels",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/ppt/slides/_rels/slide7.xml.rels",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/ppt/slides/_rels/slide6.xml.rels",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/ppt/slides/_rels/slide58.xml.rels",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/ppt/slides/_rels/slide57.xml.rels",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/ppt/slides/_rels/slide56.xml.rels",
+    "Retos-picoCTF/2019-Forensic/14-tunn3l_v1s10n/tunn3l v1s10n.md",
+    "Retos-picoCTF/2019-Forensic/15-Macrohard_Weakedge/MacroHard WeakEdge.md",
+    "Retos-picoCTF/2019-Forensic/13-Matryoshka_doll/Matryoshka doll.md",
+    "Retos-picoCTF/2019-Forensic/13-Matryoshka_doll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg",
+    "Retos-picoCTF/2019-Forensic/13-Matryoshka_doll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/3_c.jpg",
+    "Retos-picoCTF/2019-Forensic/13-Matryoshka_doll/_dolls.jpg.extracted/base_images/2_c.jpg",
+    "Retos-picoCTF/2019-Forensic/13-Matryoshka_doll/dolls.jpg",
+    "Retos-picoCTF/2019-Forensic/12-WebNet1/WebNet1.md",
+    "Retos-picoCTF/2019-Forensic/12-WebNet1/vulture.jpg",
+    "Retos-picoCTF/2019-Forensic/11-WebNet0/WebNet0.md",
+    "Retos-picoCTF/2019-Forensic/01-Glory of the Garden/Glory of the Garden.md",
     "Retos-picoCTF/2019-Forensic/10-sharkonwire2/Shark on wire 2.md",
+    "Retos-picoCTF/2019-Forensic/08-C0rrupt/C0rrupt.md",
+    "Retos-picoCTF/2019-Forensic/07-WhitePages/WhitePages.md",
+    "Retos-picoCTF/2019-Forensic/06-m00nwalk/m00nwalk.md",
+    "PicoCTF2023/14-Permissions.md",
+    "Retos-picoCTF/2019-Forensic/09-Like1000/Like1000.md",
     "Retos-picoCTF/2019-Forensic/09-Like1000/Untitled.md",
-    "Retos-picoCTF/2019-Forensic/10-sharkonwire2",
     "Retos-picoCTF/2019-Forensic/09-Like1000/flag.png",
-    "Retos-picoCTF/2019-Forensic/09-Like1000/1.tar",
-    "Retos-picoCTF/2019-Forensic/09-Like1000/2.tar",
-    "Retos-picoCTF/2019-Forensic/09-Like1000/3.tar",
-    "Retos-picoCTF/2019-Forensic/09-Like1000/4.tar",
-    "Retos-picoCTF/2019-Forensic/09-Like1000/5.tar",
-    "Retos-picoCTF/2019-Forensic/09-Like1000/6.tar",
-    "Retos-picoCTF/2019-Forensic/09-Like1000/7.tar",
-    "Retos-picoCTF/2019-Forensic/09-Like1000/8.tar",
     "2.png",
     "1.png",
     "Retos-picoCTF/2019-Forensic/08-C0rrupt/mystery.png",
-    "Retos-picoCTF/2019-Forensic/07-WhitePages/WhitePages.md",
     "PicoCTF2023/13-MatchTheRegex.md",
     "PicoCTF2023/05-money-ware/05-money-ware.md",
     "PicoCTF2023/04-who is it/04-who is it.md",
@@ -217,19 +242,6 @@
     "Retos-picoCTF/2019-WebExploitation_RamiroFelixCastaneda/07-Irish-Name-Repo 1.md",
     "PicoCTF2023/MatchTheRegex.md",
     "retos-bandit/Level 21 to 22.md",
-    "retos-bandit/Level 20 to 21.md",
-    "retos-bandit/Level 22 to 23.md",
-    "retos-bandit/Level 23 to 24.md",
-    "retos-bandit/Level 24 to 25.md",
-    "retos-bandit/Level 25 to 26.md",
-    "retos-bandit/Level 26 to 27.md",
-    "retos-bandit/Level 27 to 28.md",
-    "retos-bandit/Level 29 to 30.md",
-    "Retos-picoCTF/2019-Forensic/06-m00nwalk/flag.png",
-    "Retos-picoCTF/2019-Forensic/05-What_Lies_Within/buildings.png",
-    "Retos-picoCTF/2019-Forensic/04-Extensions/buildings.png",
-    "Retos-picoCTF/2019-Forensic/04-Extensions/flag.png",
-    "Retos-picoCTF/2019-Forensic/02-So Meta/pico_img.png",
-    "Retos-picoCTF/2019-Forensic/01-Glory of the Garden/garden.jpg"
+    "Retos-picoCTF/2019-Forensic/06-m00nwalk/flag.png"
   ]
 }

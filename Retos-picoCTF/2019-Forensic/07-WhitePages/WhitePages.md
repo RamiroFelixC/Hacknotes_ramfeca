@@ -35,6 +35,7 @@ print(data)
 
 ## Notas adicionales
 
+sed 's/\xe2\x80\x83/0/g' whitepages.txt | sed 's/\x20/1/g'
 
 ## Referencias
 + [Unicode](https://en.wikipedia.org/wiki/Unicode)
