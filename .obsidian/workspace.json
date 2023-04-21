@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc22c008b2a8ab58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos-picoCTF/Cryptography/09-MiniRSA/*Mini RSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "daecac186d3f8c52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-picoCTF/Cryptography/13-No_Padding,No_problem/*No Padding , No problem.md",
+                "file": "Examen_Parcial_2/PicoCTF2022_web/10-sql_lite.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-picoCTF/Cryptography/09-MiniRSA/*Mini RSA.md",
+                "file": "Examen_Parcial_2/PicoCTF2022_web/10-sql_lite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-picoCTF/Cryptography/09-MiniRSA/*Mini RSA.md",
+                "file": "Examen_Parcial_2/PicoCTF2022_web/10-sql_lite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-picoCTF/Cryptography/09-MiniRSA/*Mini RSA.md"
+                "file": "Examen_Parcial_2/PicoCTF2022_web/10-sql_lite.md"
               }
             }
           }
@@ -158,17 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc22c008b2a8ab58",
+  "active": "daecac186d3f8c52",
   "lastOpenFiles": [
-    "Retos-picoCTF/Cryptography/13-No_Padding,No_problem/*No Padding , No problem.md",
+    "Examen_Parcial_2/PicoCTF2022_web/09-SqlDirect.md",
+    "Examen_Parcial_2/PicoCTF2022_web/10-sql_lite.md",
+    "Examen_Parcial_2/PicoCTF2022_web/01-Includes.md",
+    "Examen_Parcial_2/PicoCTF2022_web/06-Power_cookie.md",
+    "Examen_Parcial_2/PicoCTF2022_web/img_power_cookie.png",
+    "Examen_Parcial_2/picoCTF2022_Forensics/05-St3g0/St3g0.md",
+    "Examen_Parcial_2/picoCTF2022_Forensics/04-Redaction_gone_wrong/Redaction gone wrong.md",
+    "Examen_Parcial_2/picoCTF2022_Forensics/03-Packets_Primer/packets primer.md",
+    "packets_primer_img.png.md",
+    "Examen_Parcial_2/picoCTF2022_Forensics/02-Lookey_here/lookey_here.md",
+    "Examen_Parcial_2/picoCTF2022_Forensics/01-Enhance!/enhance!.md",
+    "Examen_Parcial_2/picoCTF2021_Forensics/02-wireshark_doo_doo_do_doo/whireshark doo dooo do doo.md",
+    "Examen_Parcial_2/picoCTF2021_Forensics/01-information.md",
+    "Examen_Parcial_2/picoCTF2021_Forensics/01-information/information.md",
     "Retos-picoCTF/Cryptography/09-MiniRSA/*Mini RSA.md",
+    "Retos-picoCTF/Cryptography/06-Tapping/Tapping.md",
+    "Retos-picoCTF/Cryptography/03-13/13.md",
+    "Retos-picoCTF/Cryptography/13-No_Padding,No_problem/*No Padding , No problem.md",
     "Retos-picoCTF/Cryptography/10-b00tl3gRSA2/b00tl3gRSA2.md",
     "Retos-picoCTF/Cryptography/13-No_Padding,No_problem",
     "Retos-picoCTF/Cryptography/08-rsa-pop-quiz/rsa-pop-quiz.md",
     "Retos-picoCTF/Cryptography/07-waves_over_lambda/waves over lambda.md",
-    "Retos-picoCTF/Cryptography/06-Tapping/Tapping.md",
     "Retos-picoCTF/Cryptography/05-la_cifra_de/la cifra de.md",
-    "Retos-picoCTF/Cryptography/03-13/13.md",
     "Retos-picoCTF/Cryptography/01-The_Numbers/The Numbers.md",
     "Retos-picoCTF/Cryptography/10-b00tl3gRSA2",
     "Retos-picoCTF/Cryptography/08-rsa-pop-quiz",
@@ -183,18 +185,6 @@
     "Retos-picoCTF/Binary_Explotation/02-buffer_overflow_0/buffer overflow 0.md",
     "Retos-picoCTF/Binary_Explotation/01-basic-file-exploit/basic-file-exploit.md",
     "Retos-picoCTF/Reverse Engineering/12-B1ll_Gat35/B1ll_Gat35.md",
-    "Retos-picoCTF/Reverse Engineering/11-Need_for_speed/Need For Speed.md",
-    "Retos-picoCTF/Reverse Engineering/10-reverse_cipher/reverse_cipher.md",
-    "Retos-picoCTF/Reverse Engineering/09-asm4/asm4.md",
-    "Retos-picoCTF/Reverse Engineering/08-asm2/asm2.md",
-    "Retos-picoCTF/Reverse Engineering/07-asm1/asm1.md",
-    "Retos-picoCTF/Reverse Engineering/06-Vault-door-6/vaul-door-6.md",
-    "Retos-picoCTF/Reverse Engineering/05-Vault-door-5/vault-door-5.md",
-    "Retos-picoCTF/Reverse Engineering/04-Vault-door-4/Vault-door-4.md",
-    "Retos-picoCTF/Reverse Engineering/03-Vault-door-3/Vault-door-3.md",
-    "Retos-picoCTF/Reverse Engineering/02-Vault-door-training/Vault-door-training.md",
-    "Retos-picoCTF/Reverse Engineering/01-Vault-door-1/vault-door-1.md",
-    "Retos-picoCTF/Cryptography/14-basic-mod1/basic-mod1.md",
     "Retos-picoCTF/Cryptography/11-Pixelated/flag.png",
     "Retos-picoCTF/Cryptography/11-Pixelated/scrambled2.png",
     "Retos-picoCTF/Cryptography/11-Pixelated/scrambled1.png",
@@ -203,7 +193,6 @@
     "Retos-picoCTF/Forensic/13-Matryoshka_doll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg",
     "Retos-picoCTF/Forensic/13-Matryoshka_doll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/3_c.jpg",
     "Retos-picoCTF/Forensic/13-Matryoshka_doll/_dolls.jpg.extracted/base_images/2_c.jpg",
-    "Retos-picoCTF/Forensic/13-Matryoshka_doll/dolls.jpg",
-    "Retos-picoCTF/Forensic/12-WebNet1/vulture.jpg"
+    "Retos-picoCTF/Forensic/13-Matryoshka_doll/dolls.jpg"
   ]
 }
