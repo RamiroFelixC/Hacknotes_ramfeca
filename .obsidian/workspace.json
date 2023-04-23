@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examen_Parcial_2/PicoCTF2022_web/10-sql_lite.md",
+                "file": "Retos-picoCTF/Cryptography/09-MiniRSA/MiniRSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examen_Parcial_2/PicoCTF2022_web/10-sql_lite.md",
+                "file": "Retos-picoCTF/Cryptography/09-MiniRSA/MiniRSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examen_Parcial_2/PicoCTF2022_web/10-sql_lite.md",
+                "file": "Retos-picoCTF/Cryptography/09-MiniRSA/MiniRSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examen_Parcial_2/PicoCTF2022_web/10-sql_lite.md"
+                "file": "Retos-picoCTF/Cryptography/09-MiniRSA/MiniRSA.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "daecac186d3f8c52",
   "lastOpenFiles": [
-    "Examen_Parcial_2/PicoCTF2022_web/09-SqlDirect.md",
+    "Retos-picoCTF/Cryptography/09-MiniRSA/exp.py",
+    "Retos-picoCTF/Cryptography/09-MiniRSA/ciphertext",
+    "Retos-picoCTF/Cryptography/09-MiniRSA/ciphertext.1",
+    "Retos-picoCTF/Cryptography/08-rsa-pop-quiz/rsa-pop-quiz.md",
+    "Retos-picoCTF/Cryptography/09-MiniRSA/MiniRSA.md",
     "Examen_Parcial_2/PicoCTF2022_web/10-sql_lite.md",
+    "Examen_Parcial_2/PicoCTF2022_web/09-SqlDirect.md",
     "Examen_Parcial_2/PicoCTF2022_web/01-Includes.md",
     "Examen_Parcial_2/PicoCTF2022_web/06-Power_cookie.md",
     "Examen_Parcial_2/PicoCTF2022_web/img_power_cookie.png",
@@ -162,13 +167,11 @@
     "Examen_Parcial_2/picoCTF2021_Forensics/02-wireshark_doo_doo_do_doo/whireshark doo dooo do doo.md",
     "Examen_Parcial_2/picoCTF2021_Forensics/01-information.md",
     "Examen_Parcial_2/picoCTF2021_Forensics/01-information/information.md",
-    "Retos-picoCTF/Cryptography/09-MiniRSA/*Mini RSA.md",
     "Retos-picoCTF/Cryptography/06-Tapping/Tapping.md",
     "Retos-picoCTF/Cryptography/03-13/13.md",
     "Retos-picoCTF/Cryptography/13-No_Padding,No_problem/*No Padding , No problem.md",
     "Retos-picoCTF/Cryptography/10-b00tl3gRSA2/b00tl3gRSA2.md",
     "Retos-picoCTF/Cryptography/13-No_Padding,No_problem",
-    "Retos-picoCTF/Cryptography/08-rsa-pop-quiz/rsa-pop-quiz.md",
     "Retos-picoCTF/Cryptography/07-waves_over_lambda/waves over lambda.md",
     "Retos-picoCTF/Cryptography/05-la_cifra_de/la cifra de.md",
     "Retos-picoCTF/Cryptography/01-The_Numbers/The Numbers.md",
@@ -180,11 +183,8 @@
     "Retos-picoCTF/Cryptography/03-13",
     "Retos-picoCTF/Binary_Explotation/03_buffer_overflow_1/buffer overflow 1.md",
     "Retos-picoCTF/Binary_Explotation/03_buffer_overflow_1/vuln.c",
-    "Retos-picoCTF/Binary_Explotation/03_buffer_overflow_1/vuln",
-    "Retos-picoCTF/Binary_Explotation/03_buffer_overflow_1",
     "Retos-picoCTF/Binary_Explotation/02-buffer_overflow_0/buffer overflow 0.md",
     "Retos-picoCTF/Binary_Explotation/01-basic-file-exploit/basic-file-exploit.md",
-    "Retos-picoCTF/Reverse Engineering/12-B1ll_Gat35/B1ll_Gat35.md",
     "Retos-picoCTF/Cryptography/11-Pixelated/flag.png",
     "Retos-picoCTF/Cryptography/11-Pixelated/scrambled2.png",
     "Retos-picoCTF/Cryptography/11-Pixelated/scrambled1.png",
