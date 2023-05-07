@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-picoCTF/Cryptography/14-HideToSee/HideToSee.md",
+                "file": "Retos-picoCTF/Reverse Engineering/13-GDB_test_drive/GDB Test Drive.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f193358445db4c54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-picoCTF/Cryptography/14-HideToSee/HideToSee.md",
+                "file": "Retos-picoCTF/Reverse Engineering/13-GDB_test_drive/GDB Test Drive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-picoCTF/Cryptography/14-HideToSee/HideToSee.md",
+                "file": "Retos-picoCTF/Reverse Engineering/13-GDB_test_drive/GDB Test Drive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-picoCTF/Cryptography/14-HideToSee/HideToSee.md"
+                "file": "Retos-picoCTF/Reverse Engineering/13-GDB_test_drive/GDB Test Drive.md"
               }
             }
           }
@@ -148,12 +156,21 @@
   },
   "active": "daecac186d3f8c52",
   "lastOpenFiles": [
+    "Retos-picoCTF/Reverse Engineering/13-GDB_test_drive/gdbme",
+    "Retos-picoCTF/Cryptography/14-HideToSee/HideToSee.md",
+    "Retos-picoCTF/Reverse Engineering/13-GDB_test_drive/GDB Test Drive.md",
+    "Retos-picoCTF/Reverse Engineering/13-GDB_test_drive",
+    "Retos-picoCTF/Reverse Engineering/14-Safe Opener 2/SafeOpener.class",
+    "Retos-picoCTF/Reverse Engineering/14-Safe Opener 2/Safe Opener 2.md",
+    "Retos-picoCTF/Reverse Engineering/14-Safe Opener 2",
+    "Retos-picoCTF/Reverse Engineering/11-Safe Opener 2/SafeOpener.class",
+    "Retos-picoCTF/Reverse Engineering/11-Safe Opener 2/Safe Opener 2.md",
+    "Retos-picoCTF/Reverse Engineering/11-Safe Opener 2",
     "Retos-picoCTF/Cryptography/15-ReadMyCert/ReadMyCert.md",
     "Retos-picoCTF/Cryptography/13-basic-mod1/basic-mod1.md",
     "Retos-picoCTF/Cryptography/12-Pixelated/pixelated.md",
     "Retos-picoCTF/Cryptography/11-Mind_your_Ps_and_Qs/Mind your Ps and Qs.md",
     "Retos-picoCTF/Cryptography/16-No_Padding,No_problem/No Padding , No problem.md",
-    "Retos-picoCTF/Cryptography/14-HideToSee/HideToSee.md",
     "Retos-picoCTF/Cryptography/10-b00tl3gRSA2/b00tl3gRSA2.md",
     "Retos-picoCTF/Cryptography/16-No_Padding,No_problem",
     "Retos-picoCTF/Cryptography/15-No_Padding,No_problem/*No Padding , No problem.md",
@@ -164,14 +181,9 @@
     "Retos-picoCTF/Cryptography/14-HideToSee/atbash cipher.png",
     "Retos-picoCTF/Cryptography/14-HideToSee/Subir imagen.png",
     "Retos-picoCTF/Cryptography/14-HideToSee",
-    "Retos-picoCTF/Cryptography/13-basic-mod1/message.txt",
-    "Retos-picoCTF/Cryptography/13-basic-mod1/exp.py",
-    "Retos-picoCTF/Cryptography/13-basic-mod1",
     "Retos-picoCTF/Cryptography/12-Pixelated/scrambled2.png",
     "Retos-picoCTF/Cryptography/12-Pixelated/scrambled1.png",
     "Retos-picoCTF/Cryptography/12-Pixelated/flag.png",
-    "Retos-picoCTF/Cryptography/12-Pixelated/exploit.py",
-    "Retos-picoCTF/Cryptography/12-Pixelated",
     "Retos-picoCTF/Cryptography/07-ReadMyCert/ReadMyCert.md",
     "Retos-picoCTF/Cryptography/02-HideToSee/atbash.jpg",
     "Retos-picoCTF/Cryptography/02-HideToSee/atbash cipher.png",
@@ -189,10 +201,6 @@
     "Examen_Parcial_2/picoCTF2022_Forensics/03-Packets_Primer/packets primer.md",
     "packets_primer_img.png.md",
     "Examen_Parcial_2/picoCTF2022_Forensics/02-Lookey_here/lookey_here.md",
-    "Examen_Parcial_2/picoCTF2022_Forensics/01-Enhance!/enhance!.md",
-    "Examen_Parcial_2/picoCTF2021_Forensics/02-wireshark_doo_doo_do_doo/whireshark doo dooo do doo.md",
-    "Examen_Parcial_2/picoCTF2021_Forensics/01-information.md",
-    "Examen_Parcial_2/picoCTF2021_Forensics/01-information/information.md",
-    "Retos-picoCTF/Cryptography/06-Tapping/Tapping.md"
+    "Examen_Parcial_2/picoCTF2022_Forensics/01-Enhance!/enhance!.md"
   ]
 }
