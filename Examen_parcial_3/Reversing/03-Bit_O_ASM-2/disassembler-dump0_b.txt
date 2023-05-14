@@ -1,0 +1,9 @@
+endbr64 
+push   rbp
+mov    rbp,rsp
+mov    DWORD PTR [rbp-0x14],edi
+mov    QWORD PTR [rbp-0x20],rsi
+mov    DWORD PTR [rbp-0x4],0x9fe1a
+mov    eax,DWORD PTR [rbp-0x4]
+pop    rbp 
+ret
