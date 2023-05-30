@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d99a073dec03b51",
+            "id": "edb7172a97ab4592",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTB/StartPoint/Redeemer/Redeemer - Redis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTB/StartPoint/Redeemer/Redeemer - Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTB/StartPoint/Redeemer/Redeemer - Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTB/StartPoint/Redeemer/Redeemer - Redis.md"
+              }
             }
           }
         ]
@@ -146,24 +154,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d99a073dec03b51",
+  "active": "edb7172a97ab4592",
   "lastOpenFiles": [
-    "Examen_parcial_3/BinaryExplotation/04-Two-sum/flag.c",
+    "HTB/StartPoint/Fawn/Fawn - FTP.md",
+    "HTB/StartPoint/Meow/Meow -  telnet.md",
+    "HTB/StartPoint/Redeemer/Redeemer - Redis.md",
+    "HTB/StartPoint/Redeemer/document.pdf",
+    "HTB/StartPoint/Dancing/Dancing.md",
+    "HTB/StartPoint/Redeemer",
+    "HTB/StartPoint/Dancing/flag.txt",
+    "HTB/StartPoint/Dancing/worknotes.txt",
+    "HTB/StartPoint/Dancing/document.pdf",
+    "HTB/StartPoint/Dancing",
+    "HTB/StartPoint/Fawn/flag.txt",
+    "HTB/StartPoint/Fawn/document.pdf",
+    "HTB/StartPoint/Fawn",
+    "retos-bandit/Level 0 to 1.md",
+    "HTB/StartPoint/Meow/starting_point_ramdark666.ovpn",
+    "notes/OSINT/1.md",
     "Examen_parcial_3/BinaryExplotation/03-Clutter_overflow/Clutter overflow.md",
-    "Examen_parcial_3/BinaryExplotation/03-Clutter_overflow/chall",
-    "Examen_parcial_3/BinaryExplotation/03-Clutter_overflow/chall.c",
     "Examen_parcial_3/BinaryExplotation/01-PickerIV/Picker IV.md",
     "Examen_parcial_3/BinaryExplotation/02_Local_Target/Local Target.md",
-    "Examen_parcial_3/BinaryExplotation/02_Local_Target/a.out",
-    "Examen_parcial_3/BinaryExplotation/01-PickerIV/a.out",
-    "Examen_parcial_3/BinaryExplotation/PickerI/picker-I.py",
-    "Examen_parcial_3/BinaryExplotation/PickerIII",
-    "Examen_parcial_3/BinaryExplotation/untitled folder",
-    "Examen_parcial_3/BinaryExplotation/PickerII",
-    "Examen_parcial_3/BinaryExplotation/PickerI",
     "Retos-picoCTF/Binary_Explotation/04-Flag_Leak/Flag Leak.md",
     "Retos-picoCTF/Binary_Explotation/05-Stonks/Stonks.md",
-    "Examen_parcial_3/BinaryExplotation/02_Local_Target/local-target.c",
     "Retos-picoCTF/Binary_Explotation/02-buffer_overflow_0/buffer overflow 0.md",
     "Retos-picoCTF/Binary_Explotation/01-basic-file-exploit/basic-file-exploit.md",
     "Examen_parcial_3/Reversing/06-GDB_baby_step_1/GDB baby step 1.md",
@@ -178,14 +191,8 @@
     "Retos-picoCTF/Cryptography/08-rsa-pop-quiz/rsa-pop-quiz.md",
     "Retos-picoCTF/Cryptography/09-MiniRSA/MiniRSA.md",
     "Examen_parcial_3/Crypto/04-Vigenere/Vigenere.md",
-    "Examen_parcial_3/Crypto/03-transposition-trial/Transposition trial.md",
-    "Examen_parcial_3/Crypto/02-Mr_Worldwide/Mr Worldwide.md",
-    "Examen_parcial_3/Crypto/01-Flags/Flags.md",
     "Examen_parcial_3/Crypto/01-Flags/flag-key.png",
     "Examen_parcial_3/Crypto/01-Flags/flag.png",
-    "Examen_parcial_3/BinaryExplotation/04-Two-sum/Two-sum.md",
-    "Retos-picoCTF/Binary_Explotation/03_buffer_overflow_1/buffer overflow 1.md",
-    "Retos-picoCTF/Cryptography/14-HideToSee/HideToSee.md",
     "Retos-picoCTF/Cryptography/14-HideToSee/atbash.jpg",
     "Retos-picoCTF/Cryptography/14-HideToSee/atbash cipher.png",
     "Retos-picoCTF/Cryptography/14-HideToSee/Subir imagen.png",
