@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edb7172a97ab4592",
+            "id": "1db3573d6d02afae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/StartPoint/Redeemer/Redeemer - Redis.md",
+                "file": "HTB/Labs/MonitorsTwo/Monitors Two.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/StartPoint/Redeemer/Redeemer - Redis.md",
+                "file": "HTB/Labs/MonitorsTwo/Monitors Two.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/StartPoint/Redeemer/Redeemer - Redis.md",
+                "file": "HTB/Labs/MonitorsTwo/Monitors Two.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/StartPoint/Redeemer/Redeemer - Redis.md"
+                "file": "HTB/Labs/MonitorsTwo/Monitors Two.md"
               }
             }
           }
@@ -154,43 +154,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edb7172a97ab4592",
+  "active": "1db3573d6d02afae",
   "lastOpenFiles": [
+    "HTB/Labs/MonitorsTwo/pass",
+    "HTB/Labs/pass",
+    "HTB/Labs/MonitorsTwo/cacti/cacti.py",
+    "HTB/Labs/MonitorsTwo/cacti/README.md",
+    "HTB/Labs/MonitorsTwo/cacti",
+    "HTB/Labs/MonitorsTwo/cacti-cve-2022-46169-exploit/cacti.py",
+    "HTB/Labs/MonitorsTwo/cacti-cve-2022-46169-exploit/README.md",
+    "HTB/Labs/MonitorsTwo/cacti-cve-2022-46169-exploit",
+    "HTB/Labs/cacti",
+    "HTB/Labs/cacti-cve-2022-46169-exploit/cacti.py",
+    "HTB/Labs/cacti-cve-2022-46169-exploit/README.md",
+    "HTB/Labs/cacti-cve-2022-46169-exploit",
+    "HTB/Labs/Busqueda/Busqueda.md",
+    "HTB/Labs/MonitorsTwo/Monitors Two.md",
+    "HTB/Labs/MonitorsTwo",
+    "HTB/StartPoint/Appointment/Appointment - SQL injection.md",
+    "HTB/StartPoint/Unified/Unified.md",
+    "HTB/StartPoint/Unified/hash",
+    "HTB/StartPoint/crocodile/Crocodile.md",
+    "HTB/StartPoint/Vaccine/Vaccine.md",
+    "HTB/StartPoint/Oopsie/Oopsie.md",
+    "HTB/StartPoint/Archetype/Archetype.md",
+    "HTB/StartPoint/Archetype/impacket/build/bdist.linux-x86_64/egg/share/doc/impacket/README.md",
+    "HTB/StartPoint/Archetype/impacket/TESTING.md",
+    "HTB/StartPoint/Archetype/impacket/SECURITY.md",
+    "HTB/StartPoint/Archetype/impacket/README.md",
+    "HTB/StartPoint/Archetype/impacket/ChangeLog.md",
+    "HTB/StartPoint/Three/Three.md",
+    "HTB/StartPoint/Responder/Responder.md",
+    "HTB/StartPoint/Sequel/Sequel - MySQL.md",
+    "HTB/StartPoint/Redeemer/Redeemer - Redis.md",
     "HTB/StartPoint/Fawn/Fawn - FTP.md",
     "HTB/StartPoint/Meow/Meow -  telnet.md",
-    "HTB/StartPoint/Redeemer/Redeemer - Redis.md",
-    "HTB/StartPoint/Redeemer/document.pdf",
     "HTB/StartPoint/Dancing/Dancing.md",
-    "HTB/StartPoint/Redeemer",
-    "HTB/StartPoint/Dancing/flag.txt",
-    "HTB/StartPoint/Dancing/worknotes.txt",
-    "HTB/StartPoint/Dancing/document.pdf",
-    "HTB/StartPoint/Dancing",
-    "HTB/StartPoint/Fawn/flag.txt",
-    "HTB/StartPoint/Fawn/document.pdf",
-    "HTB/StartPoint/Fawn",
     "retos-bandit/Level 0 to 1.md",
-    "HTB/StartPoint/Meow/starting_point_ramdark666.ovpn",
     "notes/OSINT/1.md",
-    "Examen_parcial_3/BinaryExplotation/03-Clutter_overflow/Clutter overflow.md",
-    "Examen_parcial_3/BinaryExplotation/01-PickerIV/Picker IV.md",
-    "Examen_parcial_3/BinaryExplotation/02_Local_Target/Local Target.md",
-    "Retos-picoCTF/Binary_Explotation/04-Flag_Leak/Flag Leak.md",
-    "Retos-picoCTF/Binary_Explotation/05-Stonks/Stonks.md",
-    "Retos-picoCTF/Binary_Explotation/02-buffer_overflow_0/buffer overflow 0.md",
-    "Retos-picoCTF/Binary_Explotation/01-basic-file-exploit/basic-file-exploit.md",
-    "Examen_parcial_3/Reversing/06-GDB_baby_step_1/GDB baby step 1.md",
-    "Examen_parcial_3/Reversing/07-GDB_baby_step_2/GDB baby step 2.md",
-    "Retos-picoCTF/Reverse Engineering/13-GDB_test_drive/GDB Test Drive.md",
-    "Examen_parcial_3/Reversing/05-Bit_O_ASM-4/Bit_O_ASM_4.md",
-    "Examen_parcial_3/Reversing/04-Bit_O_ASM-3/Bit_O_ASM_3.md",
-    "Examen_parcial_3/Reversing/03-Bit_O_ASM-2/Bit_O_ASM_2.md",
-    "Examen_parcial_3/Reversing/02-Bit_O_ASM-1/Bit_O_ASM_1.md",
-    "Examen_parcial_3/Reversing/01-ASCIIFTW/ASCII FTW.md",
-    "Examen_parcial_3/Crypto/05-SRA/SRA.md",
-    "Retos-picoCTF/Cryptography/08-rsa-pop-quiz/rsa-pop-quiz.md",
-    "Retos-picoCTF/Cryptography/09-MiniRSA/MiniRSA.md",
-    "Examen_parcial_3/Crypto/04-Vigenere/Vigenere.md",
     "Examen_parcial_3/Crypto/01-Flags/flag-key.png",
     "Examen_parcial_3/Crypto/01-Flags/flag.png",
     "Retos-picoCTF/Cryptography/14-HideToSee/atbash.jpg",
