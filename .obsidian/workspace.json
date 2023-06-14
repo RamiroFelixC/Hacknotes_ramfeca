@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1db3573d6d02afae",
+            "id": "3b13f67f85023a82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Labs/MonitorsTwo/Monitors Two.md",
+                "file": "HTB/Labs/Stocker/Stocker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beb60b35d7e654a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Labs/Stocker/Stocker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "220bddc70648c349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Labs/Inject/Inject.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Labs/MonitorsTwo/Monitors Two.md",
+                "file": "HTB/Labs/Inject/Inject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Labs/MonitorsTwo/Monitors Two.md",
+                "file": "HTB/Labs/Inject/Inject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Labs/MonitorsTwo/Monitors Two.md"
+                "file": "HTB/Labs/Inject/Inject.md"
               }
             }
           }
@@ -154,26 +179,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1db3573d6d02afae",
+  "active": "220bddc70648c349",
   "lastOpenFiles": [
-    "HTB/Labs/MonitorsTwo/pass",
-    "HTB/Labs/pass",
-    "HTB/Labs/MonitorsTwo/cacti/cacti.py",
-    "HTB/Labs/MonitorsTwo/cacti/README.md",
-    "HTB/Labs/MonitorsTwo/cacti",
-    "HTB/Labs/MonitorsTwo/cacti-cve-2022-46169-exploit/cacti.py",
-    "HTB/Labs/MonitorsTwo/cacti-cve-2022-46169-exploit/README.md",
-    "HTB/Labs/MonitorsTwo/cacti-cve-2022-46169-exploit",
-    "HTB/Labs/cacti",
-    "HTB/Labs/cacti-cve-2022-46169-exploit/cacti.py",
-    "HTB/Labs/cacti-cve-2022-46169-exploit/README.md",
-    "HTB/Labs/cacti-cve-2022-46169-exploit",
+    "HTB/Labs/Stocker/Stocker.md",
+    "HTB/Labs/Inject/Inject.md",
+    "HTB/Labs/playbook_2.yml",
+    "HTB/Labs/Inject",
+    "HTB/Labs/Stocker/user.txt",
     "HTB/Labs/Busqueda/Busqueda.md",
     "HTB/Labs/MonitorsTwo/Monitors Two.md",
-    "HTB/Labs/MonitorsTwo",
+    "HTB/Labs/Inject/exploit1.sh",
+    "HTB/Labs/Inject/exploit.sh",
+    "HTB/Labs/Inject/new file",
+    "HTB/Labs/Inject/plaintext.txt",
+    "Untitled",
+    "HTB/Labs/Inject",
+    "HTB/Labs/untitled folder",
+    "HTB/Labs/PC/PC.md",
+    "HTB/Labs/PC/grpcurl/internal/testing/cmd/bankdemo/README.md",
+    "HTB/Labs/PC/grpcurl/internal/testing/cmd/testserver/README.md",
+    "HTB/Labs/PC/grpcurl/releasing/RELEASE_NOTES.md",
+    "HTB/Labs/PC/grpcurl/releasing/README.md",
+    "HTB/Labs/PC/grpcurl/README.md",
+    "HTB/Labs/MonitorsTwo/cacti/README.md",
+    "HTB/Labs/MonitorsTwo/cacti-cve-2022-46169-exploit/README.md",
+    "HTB/Labs/cacti-cve-2022-46169-exploit/README.md",
     "HTB/StartPoint/Appointment/Appointment - SQL injection.md",
     "HTB/StartPoint/Unified/Unified.md",
-    "HTB/StartPoint/Unified/hash",
     "HTB/StartPoint/crocodile/Crocodile.md",
     "HTB/StartPoint/Vaccine/Vaccine.md",
     "HTB/StartPoint/Oopsie/Oopsie.md",
@@ -183,15 +215,6 @@
     "HTB/StartPoint/Archetype/impacket/SECURITY.md",
     "HTB/StartPoint/Archetype/impacket/README.md",
     "HTB/StartPoint/Archetype/impacket/ChangeLog.md",
-    "HTB/StartPoint/Three/Three.md",
-    "HTB/StartPoint/Responder/Responder.md",
-    "HTB/StartPoint/Sequel/Sequel - MySQL.md",
-    "HTB/StartPoint/Redeemer/Redeemer - Redis.md",
-    "HTB/StartPoint/Fawn/Fawn - FTP.md",
-    "HTB/StartPoint/Meow/Meow -  telnet.md",
-    "HTB/StartPoint/Dancing/Dancing.md",
-    "retos-bandit/Level 0 to 1.md",
-    "notes/OSINT/1.md",
     "Examen_parcial_3/Crypto/01-Flags/flag-key.png",
     "Examen_parcial_3/Crypto/01-Flags/flag.png",
     "Retos-picoCTF/Cryptography/14-HideToSee/atbash.jpg",
